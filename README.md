@@ -1,0 +1,1 @@
+Side-project de site web en HTML et CSS, dans le but de concevoir des outils d’apprentissage plus accessible à distance et en ligne, en m’appuyant sur mes années d’expériences dans l'enseignement et la traduction françaises. Le site est apparenté à ma chaîne Telegram d'apprentissage de français de tous les jours. 
